@@ -14,8 +14,9 @@
 <h2>COMPARE ANY PRODUCT</h2>
 </hgroup>
 <nav id="mainNav">
-<h1>main shoping sites</h1>
+<h1>shoping sites</h1>
 <ul id="siteNav">
+<h2>examples</h2>
 <li><a href="flipkart.com">flipkart</a></li>
 <li><a href="snapdeal.com">snapdeal</a></li>
 <li><a href="amazon.in" class="last">amazon</a></li>
@@ -62,6 +63,7 @@ align="center" bgcolor="#EEEEEE">
 	 <section class="serch comparision">
 	 </section>
 	 </aside>
+	 <h1>this is only for learning example</h1>
 	 <footer id"page footer">
 	 <p>&copy;copy right 2016 shopping comparision.org</p>
 	 <p><a href="#">legal</a>|<a href="#">privacy</a></p>
