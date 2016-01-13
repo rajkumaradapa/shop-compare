@@ -4,21 +4,13 @@
 <meta charset="UTF-8">
 <title>SHOPPING COMPARISION WEB SITE</title>
 <link href="_css/main.css" rel="style sheet" type="text/css">
-        <style type="text/css">
-            .style1 {
-                color: #3333FF;
-            }
-            .newStyle1
-            {
-                background-color: yellow;              
-            }
-        </style>
+       
 </head>
 <body>
 <div id="wrapper">
 <header id="mainheader">
 <hgroup>
-<h1><span class="style1">SHOPPING COMPARISION</span> <span class="style1">WEB SITE</span></h1>
+<h1>SHOPPING COMPARISION WEB SITE</h1>
 <h2>COMPARE ANY PRODUCT</h2>
 </hgroup>
 <nav id="mainNav">
@@ -53,7 +45,7 @@
 	 <body>
 	 <!-- SEARCH ENGINE CODE-->
 
-<form action="http://#/links/search.cgi" method="GET">
+<form action="http://flipkart.com/links/search.cgi" method="GET">
 
 <table border="0" cellspacing="0" cellpadding="2" bgcolor="#999999"><tr><td>
 
@@ -68,7 +60,6 @@ align="center" bgcolor="#EEEEEE">
 	 <h1>search</h1>
 	 <section class="clothes">
 	 <section class="serch comparision">
-	 <img src="_../../../Pictures/holidays-2015-day-3-6399865393250304-5750085036015616-ror.jpg" height="200" width="500" />
 	 </section>
 	 </aside>
 	 <footer id"page footer">
