@@ -8,6 +8,7 @@
 <body>
 <div id="wrapper">
 <header id="mainHeader">
+<h2>this is example web site</h2>
 <h1><span>shop and</span>compare</h1>
 <div id="mainNav">
 <ul id="siteNav">
