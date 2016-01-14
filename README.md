@@ -17,15 +17,15 @@
 <h1>shoping sites</h1>
 <ul id="siteNav">
 <h2>examples</h2>
-<li><a href="flipkart.com">flipkart</a></li>
-<li><a href="snapdeal.com">snapdeal</a></li>
-<li><a href="amazon.in" class="last">amazon</a></li>
+<li><a href="https://flipkart.com">flipkart</a></li>
+<li><a href="https://snapdeal.com">snapdeal</a></li>
+<li><a href="https://amazon.in" class="last">amazon</a></li>
 </ul>
 </nav>
 </header>
  <article id="shopping">
  <header>
- <p><a href="flipkart.com/electronics">electronics</a>| <a href=""flipkart.com/mobiles">mobiles</a></p>
+ <p><a href="https://flipkart.com/electronics">electronics</a>| <a href="https://flipkart.com"/mobiles">mobiles</a></p>
  <h1>catagories</h1>
  </header>
  </article>
@@ -38,27 +38,25 @@
    <td><th>:snapdeal</th></td>
 	 </tr>
 	 <tr class="alt">
-	 <th><li><a href="flipkat.com/electronics">elecronics</a></li></th>
-	 <td><th><li><a href="snapdeal.com/electronics">|elecronics</a></li></th></tr>
+	 <th><li><a href="https://flipkart.com/electronics">elecronics</a></li></th>
+	 <td><th><li><a href="https://snapdeal.com/electronics">|elecronics</a></li></th></tr>
 </table>
 </header>
 	 <p>if you are looking for comapre go to search</p>
-	 
-
+	 <header>
 <form action="http://https://github.com/rajkumaradapa/shop-compare/links/search.cgi" method="GET">
 
-<table id="shoping" border="0" cellspacing="0" cellpadding="2"><tr><td>
+<table border="0" cellspacing="0" cellpadding="2"><tr><td>
 
 <table border="0" bgcolor="black" cellpadding="5" cellspacing="0"><tr><td
 align="center" bgcolor="#blue">
 
 <BR><INPUT TYPE="TEXT" NAME="query" SIZE=30>
 <INPUT TYPE="Submit" VALUE="Search">
-<!--End of Search Engine Code -->
-	 </body>
+</header>
+ </body>
 	 <aside id="search">
 	 <h1>search</h1>
-	 <section class="clothes">
 	 <section class="serch comparision">
 	 </section>
 	 </aside>
