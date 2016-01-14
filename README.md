@@ -43,15 +43,14 @@
 </table>
 </header>
 	 <p>if you are looking for comapre go to search</p>
-	 <body>
-	 <!-- SEARCH ENGINE CODE-->
+	 
 
-<form action="http://flipkart.com/links/search.cgi" method="GET">
+<form action="http://https://github.com/rajkumaradapa/shop-compare/links/search.cgi" method="GET">
 
-<table border="0" cellspacing="0" cellpadding="2" bgcolor="#999999"><tr><td>
+<table id="shoping" border="0" cellspacing="0" cellpadding="2"><tr><td>
 
 <table border="0" bgcolor="black" cellpadding="5" cellspacing="0"><tr><td
-align="center" bgcolor="#EEEEEE">
+align="center" bgcolor="#blue">
 
 <BR><INPUT TYPE="TEXT" NAME="query" SIZE=30>
 <INPUT TYPE="Submit" VALUE="Search">
